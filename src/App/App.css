@@ -1,0 +1,19 @@
+table{
+  font-size: 18px;
+}
+
+.headCell{
+  background-color: #7FB77E;
+  color: #fff;
+  text-align: center;
+}
+
+tr, td{
+  border-radius: 5px;
+}
+
+td{
+  min-width: 150px;
+  padding: 10px;
+  background-color: #fff;
+}
